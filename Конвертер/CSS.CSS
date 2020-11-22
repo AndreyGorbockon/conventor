@@ -1,0 +1,32 @@
+body {
+    background-color: bisque;
+}
+
+nav {
+    background-color: grey;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 10px;
+}
+
+a { 
+    text-decoration: none;
+}
+
+.footer {
+    background-color: grey;
+    color: aliceblue;
+}
+
+.footer .in a {
+    color: khaki;
+}
+
+.footer{
+  top: 100px;
+  width: 100%; 
+}
+
+
+  
